@@ -23,13 +23,14 @@ public class Main {
                 //Checks if i is divisible by 5
                 output = "Buzz";
             } else {
-                //Default case, print value of i
+                //Default case, set output to value of i
                 output = String.valueOf(i);
             }
 
             if(i == 42) {
                 //Sets output if i equals 42
-                output = "Hitchhiker bla bla";
+                output = "Answer to the Ultimate Question of Life, the Universe, and\n" +
+                        "Everything";
             }
 
             //Prints value of output
