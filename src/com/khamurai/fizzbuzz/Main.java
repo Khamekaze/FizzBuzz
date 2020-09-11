@@ -29,8 +29,7 @@ public class Main {
 
             if(i == 42) {
                 //Sets output if i equals 42
-                output = "Answer to the Ultimate Question of Life, the Universe, and\n" +
-                        "Everything";
+                output = "Answer to the Ultimate Question of Life, the Universe, and Everything";
             }
 
             //Prints value of output
